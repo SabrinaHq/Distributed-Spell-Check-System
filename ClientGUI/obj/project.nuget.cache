@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5GvpiFhs0ya1ZGPB4LDnlU4/FcXSm1/pZmnxTMHMBoTCdrjj8ABfSkXstFPBGMD1yuX0gK2m+MPimvhCi5yrSw==",
+  "success": true,
+  "projectFilePath": "F:\\Demo\\Lab3_Haque_sxh3912\\ClientGUI\\ClientGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Star\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
